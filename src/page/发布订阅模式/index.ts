@@ -1,6 +1,6 @@
+//
 class PubSub {
     events: {};
-
     constructor() {
         this.events = {};
     }
